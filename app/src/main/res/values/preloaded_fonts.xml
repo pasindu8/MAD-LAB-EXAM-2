@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adlam_display</item>
+        <item>@font/agbalumo</item>
+        <item>@font/akshar</item>
+        <item>@font/angkor</item>
+        <item>@font/archivo_black</item>
+        <item>@font/bevan_italic</item>
+        <item>@font/diplomata</item>
+        <item>@font/electrolize</item>
+        <item>@font/new_rocker</item>
+    </array>
+</resources>

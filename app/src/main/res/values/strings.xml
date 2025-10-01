@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Book Swap LK</string>
+    <string name="welcome_message">A PIACE WHERE KNOWLEDGE IS EXCHANGED</string>
+    <string name="swap_books">Swap Books Easily</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="login_button">Login</string>
+    <string name="welcome_back_title">Welcome back</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="social_sign_in_text">Sign in with another account</string>
+    <string name="or_text">OR</string>
+    <string name="already_have_account_text">Already have an account?</string>
+    <string name="forgot_password_link">Forgot Password?</string>
+    <string name="verification_nu_hint">8</string>
+</resources>
